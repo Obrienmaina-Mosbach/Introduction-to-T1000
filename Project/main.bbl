@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Abiteboul2000}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9a6dbfb40d94bebdb629d0ab5f73e978}{%
+           family={Abiteboul},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4d1a6cd4d7d10b9ac985817dc8ae3cd}{%
+           family={Buneman},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f76bb5e4b7feee347d60eafcc488ef62}{%
+           family={Suciu},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann}%
+      }
+      \strng{namehash}{767c8d90960fdde7e3bf80c61cbc6b73}
+      \strng{fullhash}{c5168e94fb6d0bc58bdade61f9169656}
+      \strng{fullhashraw}{c5168e94fb6d0bc58bdade61f9169656}
+      \strng{bibnamehash}{767c8d90960fdde7e3bf80c61cbc6b73}
+      \strng{authorbibnamehash}{767c8d90960fdde7e3bf80c61cbc6b73}
+      \strng{authornamehash}{767c8d90960fdde7e3bf80c61cbc6b73}
+      \strng{authorfullhash}{c5168e94fb6d0bc58bdade61f9169656}
+      \strng{authorfullhashraw}{c5168e94fb6d0bc58bdade61f9169656}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data on the Web: From Relations to Semistructured Data and XML}
+      \field{year}{2000}
+    \endentry
+    \entry{Akram2007}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8d0090d9e41c6585feb58c93209bf491}{%
+           family={Akram},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d7b3636e08600d885a15cf775a23f97}{%
+           family={Meredith},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hershey}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{fullhash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{fullhashraw}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{bibnamehash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{authorbibnamehash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{authornamehash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{authorfullhash}{e5e221acf954cfde761913463d7fa1e0}
+      \strng{authorfullhashraw}{e5e221acf954cfde761913463d7fa1e0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Securing Web Services: Practical Usage of Standards and Specifications}
+      \field{title}{Approaches and Best Practices in Web Service Style, XML Data Binding and Validation – Implications to Securing Web Services}
+      \field{year}{2007}
+    \endentry
+    \entry{Balasubramanian2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c13bc1b85773fa854684ef37ed6ed888}{%
+           family={Balasubramanian},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{fullhash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{fullhashraw}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{bibnamehash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{authorbibnamehash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{authornamehash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{authorfullhash}{c13bc1b85773fa854684ef37ed6ed888}
+      \strng{authorfullhashraw}{c13bc1b85773fa854684ef37ed6ed888}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://medium.com/@balacse4016/sapui5-data-binding-a-comprehensive-guide-8f0d76f56b21}}
+      \field{note}{Accessed 22 June 2025}
+      \field{title}{SAPUI5 Data Binding: A Comprehensive Guide}
+      \field{year}{2023}
+    \endentry
+    \entry{Benson2021}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=611a50daaf6dc09ca21da4982590f6f4}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c98696a2316bcb8b1ba272aeacf1364}{%
+           family={Grieve},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{fullhash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{fullhashraw}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{bibnamehash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{authorbibnamehash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{authornamehash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{authorfullhash}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \strng{authorfullhashraw}{58ce70cc123f9e91c11bc89ec8ad551b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Health Interoperability FHIR, HL7 and SNOMED CT}
+      \field{year}{2021}
+    \endentry
+    \entry{ElDahshan2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=2fb49010e6c5003d049c82df82757fa1}{%
+           family={El-Dahshan},
+           familyi={E\bibinithyphendelim D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc3377f43b0e19a21b2e36b6f2f45cda}{%
+           family={Selim},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a1450f1f02a67fd5723dc22ebbf7eb9}{%
+           family={Ebada},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi Ismail},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5be77dfb3c8b9753e9e47d98c4360ef}{%
+           family={Abouhawwash},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18d37390171763082f9d94353b127ace}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7089c8e6b5c7a9033806a53af955fd}{%
+           family={Behery},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2db950073824819fa3f7cb43c144af01}
+      \strng{fullhash}{8aa01570d8a69b86f1eda3e6adff8ac1}
+      \strng{fullhashraw}{8aa01570d8a69b86f1eda3e6adff8ac1}
+      \strng{bibnamehash}{2db950073824819fa3f7cb43c144af01}
+      \strng{authorbibnamehash}{2db950073824819fa3f7cb43c144af01}
+      \strng{authornamehash}{2db950073824819fa3f7cb43c144af01}
+      \strng{authorfullhash}{8aa01570d8a69b86f1eda3e6adff8ac1}
+      \strng{authorfullhashraw}{8aa01570d8a69b86f1eda3e6adff8ac1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Computers, Materials and Continua}}
+      \field{number}{3}
+      \field{title}{Handling Big Data in Relational Database Management Systems}
+      \field{volume}{72}
+      \field{year}{2022}
+      \field{pages}{5149\bibrangedash 5164}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.32604/cmc.2022.028326
+      \endverb
+    \endentry
+    \entry{Deacon2013}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f84c0b1663bab4d5f9f9a42a892a7f2e}{%
+           family={Deacon},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{fullhash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{fullhashraw}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{bibnamehash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{authorbibnamehash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{authornamehash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{authorfullhash}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \strng{authorfullhashraw}{f84c0b1663bab4d5f9f9a42a892a7f2e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.johndeacon.net/john-deacon/articles/model-view-controller-architecture/}}
+      \field{note}{Accessed 22 June 2025}
+      \field{title}{Model-View-Controller Architecture}
+      \field{year}{2013}
+    \endentry
+    \entry{Obert2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c3a1c8d4f9002340be45f94e4e4d132}{%
+           family={Obert},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b16f7ba77df11e225c65d2a309421aaa}{%
+           family={Buzek},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{877497873fd5dd5d338220613b527975}
+      \strng{fullhash}{877497873fd5dd5d338220613b527975}
+      \strng{fullhashraw}{877497873fd5dd5d338220613b527975}
+      \strng{bibnamehash}{877497873fd5dd5d338220613b527975}
+      \strng{authorbibnamehash}{877497873fd5dd5d338220613b527975}
+      \strng{authornamehash}{877497873fd5dd5d338220613b527975}
+      \strng{authorfullhash}{877497873fd5dd5d338220613b527975}
+      \strng{authorfullhashraw}{877497873fd5dd5d338220613b527975}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SAP UI Frameworks for Enterprise Developers}
+      \field{year}{2023}
+    \endentry
+    \entry{Ozdikililer2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d899a5c605e727bf46dc5355e69ec2ed}{%
+           family={Özdikililer},
+           familyi={Ö\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{fullhash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{fullhashraw}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{bibnamehash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{authorbibnamehash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{authornamehash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{authorfullhash}{d899a5c605e727bf46dc5355e69ec2ed}
+      \strng{authorfullhashraw}{d899a5c605e727bf46dc5355e69ec2ed}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of CIEES}
+      \field{number}{2}
+      \field{title}{Data Binding in Front End for Web Applications}
+      \field{volume}{1}
+      \field{year}{2021}
+      \field{pages}{31\bibrangedash 34}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.48149/jciees.2021.1.2.6
+      \endverb
+    \endentry
+    \entry{Rustagi2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6a065c193a402985a1fcb3bf12bd486}{%
+           family={Rustagi},
+           familyi={R\bibinitperiod},
+           given={Punit},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{fullhash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{fullhashraw}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{bibnamehash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{authorbibnamehash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{authornamehash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{authorfullhash}{f6a065c193a402985a1fcb3bf12bd486}
+      \strng{authorfullhashraw}{f6a065c193a402985a1fcb3bf12bd486}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/3729/1/MVC%20Architecture%20and%20Its%20Application.pdf}}
+      \field{note}{Undergraduate Dissertation, Accessed 20 June 2025}
+      \field{title}{MVC Architecture and Its Applications}
+      \field{year}{2023}
+    \endentry
+    \entry{SAP2024b}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={{SAP}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhashraw}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhashraw}{999bc6b18351bbe817d26f559ba408ae}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://sapui5.hana.ondemand.com/sdk/#/topic/91f0d8ab6f4d1014b6dd926db0e91070.html}}
+      \field{note}{Accessed 22 June 2025}
+      \field{title}{SAPUI5 SDK: Binding Types}
+      \field{year}{2024}
+    \endentry
+    \entry{SAP2024c}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={{SAP}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhashraw}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhashraw}{999bc6b18351bbe817d26f559ba408ae}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Course Handbook, Instructor-Led Training, Course Version 23, 5 Days, Material Number 50162014}
+      \field{title}{UX400 UI Development with SAPUI5 Participant Handbook}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
