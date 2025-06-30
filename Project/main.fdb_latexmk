@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1751223590.47708 "main.bcf" "main.bbl" "main" 1751223593.57814 0
-  "main.bcf" 1751223593.50507 127084 518d878bf5b6cc9f5e9003f2353cdd7d "pdflatex"
-  "references.bib" 1751223201.79531 3196 ea9dde528f1898b2cdcbfe433dbc24b2 ""
+["biber main"] 1751301376.1331 "main.bcf" "main.bbl" "main" 1751301382.0595 0
+  "main.bcf" 1751301381.99731 127084 518d878bf5b6cc9f5e9003f2353cdd7d "pdflatex"
+  "references.bib" 1751301374.72559 3128 aa7cd407723a2bc842ab5cb4ea4d7bbc ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1751223592.644 "/Users/I746557/Library/CloudStorage/OneDrive-bwedu/DHBW/Semesters/Semester 02/Web Engineering/Web_Project/Introduction-to-T1000/Project/main.tex" "main.pdf" "main" 1751223593.57842 2
-  "/Users/I746557/Library/CloudStorage/OneDrive-bwedu/DHBW/Semesters/Semester 02/Web Engineering/Web_Project/Introduction-to-T1000/Project/main.tex" 1751223589.38838 8876 6f6bdc4daccbdedfb79822bfdc3705ef ""
+["pdflatex"] 1751301381.08332 "/Users/I746557/Library/CloudStorage/OneDrive-bwedu/DHBW/Semesters/Semester 02/Web Engineering/Web_Project/Introduction-to-T1000/Project/main.tex" "main.pdf" "main" 1751301382.05978 0
+  "/Users/I746557/Library/CloudStorage/OneDrive-bwedu/DHBW/Semesters/Semester 02/Web Engineering/Web_Project/Introduction-to-T1000/Project/main.tex" 1751301374.62984 8877 157d3b4402c761c5bd92de505039aa7b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -16,12 +16,10 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -104,10 +102,11 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750583306 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750583245 3345733 1c49be16b655cb08a09d1b2b197bc4e1 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1751223593.49968 2288 d98fbe7755a88cdcd1f2bda51c585bc1 "pdflatex"
-  "main.bbl" 1751223591.6332 16429 391b140c551f6cbe64cee4065f1fbe69 "biber main"
-  "main.out" 1751223593.50289 103 9814c2d956916adb9290eca4e25c967a "pdflatex"
-  "main.tex" 1751223589.38838 8876 6f6bdc4daccbdedfb79822bfdc3705ef ""
+  "main.aux" 1751301381.99361 2516 f2aa2a34d8ae5b4ed4da38b3989d91b8 "pdflatex"
+  "main.bbl" 1751301379.09493 16694 d8e05ecc7c86851c7d488be057e9fe89 "biber main"
+  "main.out" 1751301381.99594 103 9814c2d956916adb9290eca4e25c967a "pdflatex"
+  "main.run.xml" 1751301381.99804 2430 bd856ce1e177d08a5500f1e45977dd11 "pdflatex"
+  "main.tex" 1751301374.62984 8877 157d3b4402c761c5bd92de505039aa7b ""
   (generated)
   "main.aux"
   "main.bcf"
